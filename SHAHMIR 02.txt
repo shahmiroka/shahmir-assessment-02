@@ -1,0 +1,81 @@
+void main() 
+{  
+ var tt= "                                             SHAHMIR ASSESSMENT =02";
+print(tt);
+ var abc = "                                             FINAL TERM EXAMINATION";
+ print (abc) ;
+var hh= "CHEMISTRY MARKS";
+  print(hh);  
+int bb = 78;
+print(bb);
+  var cc = "PHYSICS MARKS";  
+print(cc);
+  num efg = 88;  
+print(efg);
+  var ad = "MATHS MARKS";
+  print(ad) ;
+   num aa = 76;
+  print(aa);  
+  
+  var jj = "URDU MARKS" ;
+  print(jj) ;
+  num nm = 83 ;
+  print(nm) ;  
+ 
+  
+  var kk = "ENGLISH MARKS" ;
+  print(kk);
+  num lm = 91 ;
+  print(lm) ;
+  
+  var yy = "TOTAL MARKS" ;
+  print(yy) ;
+  num uu = 500 ;
+  print(uu) ;
+  
+  var hk = "OBTAINED MARKS" ;
+  print(hk) ;
+  
+  num oo = bb+efg+aa+nm+lm ;
+  print(oo) ;
+  
+ var bj = "PERCENTAGE" ;
+ print(bj) ; 
+ 
+var osi = oo*100/500;
+  print(osi);
+
+
+if (osi>=90){
+    print("A+GRADE");
+  }else if(osi>=80){
+    print("A GRADE");
+
+
+}else if(osi>=70){
+print ("B GRADE") ;
+
+}else if(osi>=60){
+print ("C GRADE") ;
+
+}else if(osi>=50){
+print ("D GRADE") ;
+
+}else if(osi>=40){
+print ("FAIL") ;
+}  
+  
+  
+  
+
+  
+  
+var jn = "                                            GOOD LUCK FOR YOUR FUTURE          " ;
+print (jn) ;
+
+  {
+
+
+
+  }
+}
